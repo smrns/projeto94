@@ -70,7 +70,7 @@ def marcar_presenca():
 
 # Criar a interface gráfica com Tkinter
 root = tk.Tk()
-root.title("Sistema de Gestão Escolar")
+root.title("Controle de Alunos - PROJETO DO 94")
 
 # Seção para inserir um novo aluno
 frame_aluno = tk.Frame(root)
