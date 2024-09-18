@@ -8,9 +8,9 @@ def conectar_banco():
     try:
         conn = psycopg2.connect(
             host="localhost",
-            database="nome_do_banco",
-            user="usuario",
-            password="senha"
+            database="projeto94",
+            user="drykarousey",
+            password="9494"
         )
         return conn
     except Exception as e:
